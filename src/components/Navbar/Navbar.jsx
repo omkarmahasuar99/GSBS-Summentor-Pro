@@ -57,7 +57,7 @@ export default function Navbar() {
                 </li>
                 <li>
                   <Link to="services" spy={true} smooth={true}>
-                    Services
+                    Awards
                   </Link>
                 </li>
                 <li>
