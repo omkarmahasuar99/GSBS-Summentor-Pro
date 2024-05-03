@@ -16,7 +16,7 @@
     "react-scroll": "^1.8.9",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://github.com/omkarmahasuar99/GSBS-Summentor-Pro",
+  "homepage": "https://omkarmahasuar99.github.io/GSBS-Summentor-Pro",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
