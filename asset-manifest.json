@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/omkarmahasuar99/GSBS-Summentor-Pro/static/css/main.3073fabb.css",
+    "main.js": "/omkarmahasuar99/GSBS-Summentor-Pro/static/js/main.485cdbb4.js",
+    "static/js/787.4b1552e3.chunk.js": "/omkarmahasuar99/GSBS-Summentor-Pro/static/js/787.4b1552e3.chunk.js",
+    "static/media/banner-img.jpg": "/omkarmahasuar99/GSBS-Summentor-Pro/static/media/banner-img.3e3c5e5cdc12837a0fd6.jpg",
+    "static/media/about_img.jpg": "/omkarmahasuar99/GSBS-Summentor-Pro/static/media/about_img.15fedb210f3e582e3c09.jpg",
+    "static/media/contact.jpg": "/omkarmahasuar99/GSBS-Summentor-Pro/static/media/contact.a66df18e2f821cc6f477.jpg",
+    "static/media/blog.jpg": "/omkarmahasuar99/GSBS-Summentor-Pro/static/media/blog.38eedf5167ed24acc8fb.jpg",
+    "static/media/banner.png": "/omkarmahasuar99/GSBS-Summentor-Pro/static/media/banner.908f1105e63bdffa53c0.png",
+    "static/media/layer.png": "/omkarmahasuar99/GSBS-Summentor-Pro/static/media/layer.6f099e109a8bd549cd14.png",
+    "static/media/logo.png": "/omkarmahasuar99/GSBS-Summentor-Pro/static/media/logo.28d7f2fb3a851df27a7c.png",
+    "index.html": "/omkarmahasuar99/GSBS-Summentor-Pro/index.html",
+    "main.3073fabb.css.map": "/omkarmahasuar99/GSBS-Summentor-Pro/static/css/main.3073fabb.css.map",
+    "main.485cdbb4.js.map": "/omkarmahasuar99/GSBS-Summentor-Pro/static/js/main.485cdbb4.js.map",
+    "787.4b1552e3.chunk.js.map": "/omkarmahasuar99/GSBS-Summentor-Pro/static/js/787.4b1552e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3073fabb.css",
+    "static/js/main.485cdbb4.js"
+  ]
+}
